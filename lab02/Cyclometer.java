@@ -1,5 +1,5 @@
 // Gabriel Gaydos
-// hw02
+// lab02
 //
 // class
 public class Cyclometer {
